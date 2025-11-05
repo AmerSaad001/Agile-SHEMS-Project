@@ -61,11 +61,7 @@ Followed the **Agile (Scrum)** methodology with iterative sprints:
 
 ---
 
-## 👥 Authors
-Developed by **Amer Saad & Team**  
-Lakehead University — 2024  
 
----
 
 ## ⚠️ Disclaimer
 This repository contains only simulation and academic research code.  
